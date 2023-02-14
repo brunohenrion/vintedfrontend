@@ -28,7 +28,7 @@ const Login = ({ handleToken }) => {
   return (
     <div>
       <section>
-        <h3>Se connecter</h3>
+        <h1>Se connecter</h1>
         <form
           onSubmit={(event) => {
             event.preventDefault();

@@ -47,7 +47,7 @@ const Publish = ({ userToken }) => {
 
   return userToken ? (
     <div className="Publish">
-      <h4>Vends ton article</h4>
+      <h1s>Vends ton article</h1s>
       <div className="form">
         <input
           type="file"

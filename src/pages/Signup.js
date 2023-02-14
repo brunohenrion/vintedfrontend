@@ -34,7 +34,7 @@ const Signup = ({ handleToken }) => {
   return (
     <div>
       <section>
-        <h3>S'inscrire</h3>
+        <h1>S'inscrire</h1>
         <form
           onSubmit={(event) => {
             event.preventDefault();
