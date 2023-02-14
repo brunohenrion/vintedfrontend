@@ -1,0 +1,52 @@
+.imageGroup {
+  margin: 40px 150px 0px 115px;
+  width: 1230px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  color: #999999;
+  font-size: 15px;
+}
+
+.images {
+  display: flex;
+  margin-bottom: 30px;
+}
+
+img {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 230px;
+  height: 360px;
+  object-fit: cover;
+}
+
+p {
+  color: black;
+}
+
+h2 {
+  height: 10px;
+}
+.ava {
+  display: flex;
+  gap: 10px;
+  margin-bottom: -30px;
+}
+.avatar {
+  height: 30px;
+  width: 30px;
+  border-radius: 100%;
+}
+
+.hidden {
+  display: none;
+}
+
+.description {
+  margin-top: -10px;
+}
+
+Link {
+  text-decoration: none;
+}

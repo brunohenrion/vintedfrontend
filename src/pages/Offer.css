@@ -1,0 +1,78 @@
+.group {
+  padding-top: 30px;
+  background-color: #eaedee;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.group img {
+  width: 600px;
+  height: 600px;
+  object-fit: cover;
+}
+
+.price {
+  font-size: 24px;
+}
+
+.group .description {
+  padding: 43px 40px;
+  background-color: white;
+  width: 350px;
+
+  margin-top: 5px;
+}
+
+.details {
+  margin-top: 24px;
+}
+
+.column {
+  display: flex;
+  justify-content: space-between;
+}
+
+.left {
+  font-size: 14px;
+  color: #999999;
+}
+
+.right {
+  font-size: 14px;
+  color: #666666;
+}
+
+.parag {
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+.description p {
+  color: #e7e7e7;
+  margin-bottom: 80px;
+}
+
+.para {
+  height: 85px;
+  color: black;
+  margin-bottom: 100px;
+}
+.name {
+  font-weight: bolder;
+  font-size: 16px;
+  color: black;
+}
+.des {
+  color: #666666;
+  font-size: 16px;
+}
+.username {
+  font-size: 16px;
+  color: black;
+}
+.acheter {
+  background-color: #08acb6;
+  border: transparent;
+  color: white;
+  width: 348px;
+  height: 32px;
+}

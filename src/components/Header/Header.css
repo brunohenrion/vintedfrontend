@@ -1,0 +1,42 @@
+header {
+  height: 40px;
+  border: solid #ededed 1px;
+  padding: 5px 100px;
+}
+
+header div {
+  display: flex;
+  gap: 20px;
+}
+header input {
+  width: 500px;
+  border-radius: 5px;
+  margin: 2px 10px;
+  border: transparent;
+  background-color: #f0f0f0;
+}
+
+header img {
+  margin-top: -8px;
+  width: 100px;
+  height: 42px;
+}
+.searchbar {
+  border: grey;
+}
+
+header button {
+  font-size: 10px;
+  font-family: M;
+  margin: 5px 15px;
+  color: #017782;
+  border: solid #017782 1px;
+  border-radius: 5px;
+  padding: 5px 5px;
+}
+
+.Vendstesarticles {
+  color: white;
+  font-size: 10px;
+  background-color: #017782;
+}

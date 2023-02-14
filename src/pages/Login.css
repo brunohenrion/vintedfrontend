@@ -1,0 +1,21 @@
+.button {
+  margin-top: -50px;
+  font-family: M;
+  border: red 1px;
+}
+
+form {
+  border: red 1px;
+}
+
+button {
+  border: transparent;
+}
+
+h2 {
+  margin-top: 50px;
+}
+
+p {
+  color: #87ced4;
+}

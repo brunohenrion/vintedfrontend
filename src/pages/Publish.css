@@ -1,0 +1,30 @@
+.Publish {
+  padding: 60px 300px;
+  width: 1000px;
+  height: 1000px;
+  background-color: #ebecee;
+}
+
+.form {
+  width: 350px;
+}
+
+textarea {
+  width: 1000px;
+}
+input .form {
+  width: 1000px;
+}
+h4 {
+  margin-bottom: 10px;
+}
+
+label {
+  font-size: 10px;
+}
+.ajouter {
+  margin-left: 170px;
+  width: 60px;
+  background-color: #2db0ba;
+  color: white;
+}
